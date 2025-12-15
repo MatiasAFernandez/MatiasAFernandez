@@ -15,8 +15,11 @@
 
 ---
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 - 👨‍💻 Estudiante Avanzado de Ingenieria en Sistemas de Información en la UTN FRRe
 - 🌱 Enfocado en el aprendizaje continuo sobre manejo de base de datos, análisis y ciencia de datos, entre otros temas...
+
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
